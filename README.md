@@ -13,5 +13,5 @@ Compilation steps:
 4. cmake ..			
 5. make	
 ####### 
-./vpr <arch.xml> <benchmark_name> --pack --place
-./Router <arch.xml> <benchmark_name> <thread_num> <iteration_num> <W> ## e.g. thread_num = 4, iteration_num, W = 30 or 40 ...any value
+6.  ./vpr <arch.xml> <benchmark_name> --pack --place
+7.  ./Router <arch.xml> <benchmark_name> <thread_num> <iteration_num> <W> ## e.g. thread_num = 4, iteration_num, W = 30 or 40 ...any value
