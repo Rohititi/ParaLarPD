@@ -12,6 +12,6 @@ Compilation steps:
 3. export TBB_LIB_DIR=<path to Intel TBB library directory> 
 4. cmake ..			
 5. make	
-####### 
+
 6.  ./vpr <arch.xml> <benchmark_name> --pack --place
 7.  ./Router <arch.xml> <benchmark_name> <thread_num> <iteration_num> <W> ## e.g. thread_num = 4, iteration_num, W = 30 or 40 ...any value
